@@ -1,4 +1,4 @@
-console.log("You can use custom colors like this: /?color=purple&bgColor=#f1f1f1")
+console.log(`You can use custom colors like this: https://${window.location.hostname}/?color=purple&bgColor=#f1f1f1`)
 
 const canvas = document.getElementById("myCanvas");
 const ctx = canvas.getContext("2d");

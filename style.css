@@ -1,0 +1,8 @@
+:root {
+    --bgcolor: black;
+}
+
+body {
+    overflow: hidden;
+    background-color: var(--bgcolor);
+}

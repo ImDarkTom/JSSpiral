@@ -5,4 +5,7 @@
 body {
     overflow: hidden;
     background-color: var(--bgcolor);
+    margin: 0;
+    border: 0;
+    padding: 0;
 }
